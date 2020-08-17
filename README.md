@@ -1,4 +1,4 @@
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png" width="1000" height="1410"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png" width="618" height="871"/>
 
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page2.png)
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page3.png)
