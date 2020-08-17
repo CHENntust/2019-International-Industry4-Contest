@@ -1,8 +1,8 @@
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png" width="618" height="871"/>
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page2.png" width="618" height="871"/>
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page3.png" width="618" height="871"/>
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page4.png" width="618" height="871"/>
-<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page5.png" width="618" height="871"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png" width="618" height="901"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page2.png" width="618" height="901"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page3.png" width="618" height="901"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page4.png" width="618" height="901"/>
+<img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page5.png" width="618" height="901"/>
 
 # 成果
 *    決賽展示現場
