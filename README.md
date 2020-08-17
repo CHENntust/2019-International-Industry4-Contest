@@ -5,11 +5,11 @@
 <img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page5.png" width="618" height="871"/>
 
 # 成果
-*    八強現場
-*    海報
+*    決賽展示現場
+*    說明海報
 <img src="https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/工業4.0海報-三十一版.png" width="618" height="871"/>
 
-# 技術文件說明
+# 技術文件
 
 *    Main.py：主程序。
 
