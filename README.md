@@ -1,6 +1,13 @@
-# 異質檢測之邊緣運算解決方案SDKs
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png)
-## 檔案介紹
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page2.png)
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page3.png)
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page4.png)
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page5.png)
+
+# 成果
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/工業4.0海報-三十一版.png)
+
+# 技術文件說明
 
 *    Main.py：主程序。
 
