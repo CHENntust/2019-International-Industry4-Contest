@@ -1,4 +1,4 @@
-![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png)
+![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page1.png =100x141)
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page2.png)
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page3.png)
 ![image](https://github.com/CHENntust/2019-International-Industry4-Contest/blob/master/img/page4.png)
